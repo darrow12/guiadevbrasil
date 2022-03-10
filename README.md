@@ -137,6 +137,7 @@
 🔖 [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos <br>
 🔖 [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos <br>
 🔖 [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos <br>
+🔖 [HTML5 UP!](https://html5up.net/) - Temas HTML5 + CSS3 gratuitos <br>
 
 ## 📚 Sites para aprender ou treinar CSS
 
